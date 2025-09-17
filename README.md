@@ -21,6 +21,7 @@ Your journey is in your hands.
 
 ```bash
 python main.py
+```
  
 ## Gameplay
 ![Gameplay Screenshot](PlayScreen.png)
