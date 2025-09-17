@@ -25,3 +25,7 @@ python main.py
  
 ## Gameplay
 ![Gameplay Screenshot](PlayScreen.png)
+
+## Requirements
+
+1. Python 3.x
