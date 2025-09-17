@@ -20,5 +20,5 @@ Your journey is in your hands.
 2. Run the Python file:  
 
 ```bash
-python life_decision.py
+python main.py
  
